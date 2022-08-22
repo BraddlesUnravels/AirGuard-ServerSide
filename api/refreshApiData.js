@@ -2,8 +2,8 @@ const { format } = require('date-fns');
 const path = require('path');
 const fs = require('fs');
 const Api = require('./reqApi') // Dedicated Api request function
-const editFile = require( './editFile');
-const mongoDBdumpData = require( './dumpLocalDB' );
+const editFile = require( '../functions/editFile');
+const mongoDBdumpData = require( '../functions/dumpLocalDB' );
 
 // DataTime variable set for function
 const dateTime = `${format(new Date(), 'ddMMyyyy\tHH:mm:ss')}`;

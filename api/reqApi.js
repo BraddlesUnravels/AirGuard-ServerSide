@@ -1,8 +1,8 @@
 const fetch = require('node-fetch');
-const logEvents = require('./logEvents');
+const logEvents = require('../functions/logEvents');
 const EventEmitter = require('events');
 const { stat } = require("fs");
-const Creds = require('./configurations/keys')
+const Creds = require('../configurations/keys')
 class Emitter extends EventEmitter { };
 
 const logEmitter = new Emitter();

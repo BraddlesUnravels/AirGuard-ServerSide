@@ -12,10 +12,10 @@
     },
     "siteHealthAdvices": [
       {
-        "since": "2022-08-22T11:00:00Z",
-        "until": "2022-08-22T12:00:00Z",
+        "since": "2022-08-22T12:00:00Z",
+        "until": "2022-08-22T13:00:00Z",
         "healthParameter": "PM2.5",
-        "averageValue": 3.56,
+        "averageValue": 4.69,
         "unit": "&micro;g/m&sup3;",
         "healthAdvice": "Good",
         "healthAdviceColor": "#42A93C",
@@ -36,10 +36,10 @@
     },
     "siteHealthAdvices": [
       {
-        "since": "2022-08-22T11:00:00Z",
-        "until": "2022-08-22T12:00:00Z",
+        "since": "2022-08-22T12:00:00Z",
+        "until": "2022-08-22T13:00:00Z",
         "healthParameter": "PM2.5",
-        "averageValue": 5.66,
+        "averageValue": 7.2,
         "unit": "&micro;g/m&sup3;",
         "healthAdvice": "Good",
         "healthAdviceColor": "#42A93C",
@@ -60,10 +60,10 @@
     },
     "siteHealthAdvices": [
       {
-        "since": "2022-08-22T11:00:00Z",
-        "until": "2022-08-22T12:00:00Z",
+        "since": "2022-08-22T12:00:00Z",
+        "until": "2022-08-22T13:00:00Z",
         "healthParameter": "PM2.5",
-        "averageValue": 1.18,
+        "averageValue": 1.07,
         "unit": "&micro;g/m&sup3;",
         "healthAdvice": "Good",
         "healthAdviceColor": "#42A93C",
@@ -84,8 +84,8 @@
     },
     "siteHealthAdvices": [
       {
-        "since": "2022-08-22T11:00:00Z",
-        "until": "2022-08-22T12:00:00Z"
+        "since": "2022-08-22T12:00:00Z",
+        "until": "2022-08-22T13:00:00Z"
       }
     ]
   },
@@ -102,10 +102,10 @@
     },
     "siteHealthAdvices": [
       {
-        "since": "2022-08-22T11:00:00Z",
-        "until": "2022-08-22T12:00:00Z",
+        "since": "2022-08-22T12:00:00Z",
+        "until": "2022-08-22T13:00:00Z",
         "healthParameter": "PM2.5",
-        "averageValue": 4.29,
+        "averageValue": 1.82,
         "unit": "&micro;g/m&sup3;",
         "healthAdvice": "Good",
         "healthAdviceColor": "#42A93C",
@@ -126,8 +126,8 @@
     },
     "siteHealthAdvices": [
       {
-        "since": "2022-08-22T11:00:00Z",
-        "until": "2022-08-22T12:00:00Z"
+        "since": "2022-08-22T12:00:00Z",
+        "until": "2022-08-22T13:00:00Z"
       }
     ]
   },
@@ -144,10 +144,10 @@
     },
     "siteHealthAdvices": [
       {
-        "since": "2022-08-22T11:00:00Z",
-        "until": "2022-08-22T12:00:00Z",
+        "since": "2022-08-22T12:00:00Z",
+        "until": "2022-08-22T13:00:00Z",
         "healthParameter": "PM2.5",
-        "averageValue": 4.39,
+        "averageValue": 4.35,
         "unit": "&micro;g/m&sup3;",
         "healthAdvice": "Good",
         "healthAdviceColor": "#42A93C",
@@ -168,10 +168,10 @@
     },
     "siteHealthAdvices": [
       {
-        "since": "2022-08-22T11:00:00Z",
-        "until": "2022-08-22T12:00:00Z",
+        "since": "2022-08-22T12:00:00Z",
+        "until": "2022-08-22T13:00:00Z",
         "healthParameter": "PM2.5",
-        "averageValue": 4.72,
+        "averageValue": 4.71,
         "unit": "&micro;g/m&sup3;",
         "healthAdvice": "Good",
         "healthAdviceColor": "#42A93C",
@@ -192,10 +192,10 @@
     },
     "siteHealthAdvices": [
       {
-        "since": "2022-08-22T11:00:00Z",
-        "until": "2022-08-22T12:00:00Z",
+        "since": "2022-08-22T12:00:00Z",
+        "until": "2022-08-22T13:00:00Z",
         "healthParameter": "PM2.5",
-        "averageValue": 2.13,
+        "averageValue": 2,
         "unit": "&micro;g/m&sup3;",
         "healthAdvice": "Good",
         "healthAdviceColor": "#42A93C",
@@ -216,8 +216,8 @@
     },
     "siteHealthAdvices": [
       {
-        "since": "2022-08-22T11:00:00Z",
-        "until": "2022-08-22T12:00:00Z"
+        "since": "2022-08-22T12:00:00Z",
+        "until": "2022-08-22T13:00:00Z"
       }
     ]
   },
@@ -234,10 +234,10 @@
     },
     "siteHealthAdvices": [
       {
-        "since": "2022-08-22T11:00:00Z",
-        "until": "2022-08-22T12:00:00Z",
+        "since": "2022-08-22T12:00:00Z",
+        "until": "2022-08-22T13:00:00Z",
         "healthParameter": "PM2.5",
-        "averageValue": 6.41,
+        "averageValue": 6.18,
         "unit": "&micro;g/m&sup3;",
         "healthAdvice": "Good",
         "healthAdviceColor": "#42A93C",
@@ -258,8 +258,8 @@
     },
     "siteHealthAdvices": [
       {
-        "since": "2022-08-22T11:00:00Z",
-        "until": "2022-08-22T12:00:00Z"
+        "since": "2022-08-22T12:00:00Z",
+        "until": "2022-08-22T13:00:00Z"
       }
     ]
   },
@@ -276,8 +276,8 @@
     },
     "siteHealthAdvices": [
       {
-        "since": "2022-08-22T11:00:00Z",
-        "until": "2022-08-22T12:00:00Z"
+        "since": "2022-08-22T12:00:00Z",
+        "until": "2022-08-22T13:00:00Z"
       }
     ]
   },
@@ -294,8 +294,8 @@
     },
     "siteHealthAdvices": [
       {
-        "since": "2022-08-22T11:00:00Z",
-        "until": "2022-08-22T12:00:00Z"
+        "since": "2022-08-22T12:00:00Z",
+        "until": "2022-08-22T13:00:00Z"
       }
     ]
   },
@@ -312,10 +312,10 @@
     },
     "siteHealthAdvices": [
       {
-        "since": "2022-08-22T11:00:00Z",
-        "until": "2022-08-22T12:00:00Z",
+        "since": "2022-08-22T12:00:00Z",
+        "until": "2022-08-22T13:00:00Z",
         "healthParameter": "PM2.5",
-        "averageValue": 0.03,
+        "averageValue": 1.65,
         "unit": "&micro;g/m&sup3;",
         "healthAdvice": "Good",
         "healthAdviceColor": "#42A93C",
@@ -336,10 +336,10 @@
     },
     "siteHealthAdvices": [
       {
-        "since": "2022-08-22T11:00:00Z",
-        "until": "2022-08-22T12:00:00Z",
+        "since": "2022-08-22T12:00:00Z",
+        "until": "2022-08-22T13:00:00Z",
         "healthParameter": "PM2.5",
-        "averageValue": 1.23,
+        "averageValue": 2.58,
         "unit": "&micro;g/m&sup3;",
         "healthAdvice": "Good",
         "healthAdviceColor": "#42A93C",
@@ -360,8 +360,8 @@
     },
     "siteHealthAdvices": [
       {
-        "since": "2022-08-22T11:00:00Z",
-        "until": "2022-08-22T12:00:00Z"
+        "since": "2022-08-22T12:00:00Z",
+        "until": "2022-08-22T13:00:00Z"
       }
     ]
   },
@@ -378,8 +378,8 @@
     },
     "siteHealthAdvices": [
       {
-        "since": "2022-08-22T11:00:00Z",
-        "until": "2022-08-22T12:00:00Z"
+        "since": "2022-08-22T12:00:00Z",
+        "until": "2022-08-22T13:00:00Z"
       }
     ]
   },
@@ -396,8 +396,8 @@
     },
     "siteHealthAdvices": [
       {
-        "since": "2022-08-22T11:00:00Z",
-        "until": "2022-08-22T12:00:00Z"
+        "since": "2022-08-22T12:00:00Z",
+        "until": "2022-08-22T13:00:00Z"
       }
     ]
   },
@@ -414,10 +414,10 @@
     },
     "siteHealthAdvices": [
       {
-        "since": "2022-08-22T11:00:00Z",
-        "until": "2022-08-22T12:00:00Z",
+        "since": "2022-08-22T12:00:00Z",
+        "until": "2022-08-22T13:00:00Z",
         "healthParameter": "PM2.5",
-        "averageValue": 4.21,
+        "averageValue": 4.04,
         "unit": "&micro;g/m&sup3;",
         "healthAdvice": "Good",
         "healthAdviceColor": "#42A93C",
@@ -438,10 +438,10 @@
     },
     "siteHealthAdvices": [
       {
-        "since": "2022-08-22T11:00:00Z",
-        "until": "2022-08-22T12:00:00Z",
+        "since": "2022-08-22T12:00:00Z",
+        "until": "2022-08-22T13:00:00Z",
         "healthParameter": "PM10",
-        "averageValue": 2.5,
+        "averageValue": 25.26,
         "unit": "&micro;g/m&sup3;",
         "healthAdvice": "Good",
         "healthAdviceColor": "#42A93C",
@@ -462,10 +462,10 @@
     },
     "siteHealthAdvices": [
       {
-        "since": "2022-08-22T11:00:00Z",
-        "until": "2022-08-22T12:00:00Z",
+        "since": "2022-08-22T12:00:00Z",
+        "until": "2022-08-22T13:00:00Z",
         "healthParameter": "PM2.5",
-        "averageValue": 0.83,
+        "averageValue": 4.58,
         "unit": "&micro;g/m&sup3;",
         "healthAdvice": "Good",
         "healthAdviceColor": "#42A93C",
@@ -486,8 +486,8 @@
     },
     "siteHealthAdvices": [
       {
-        "since": "2022-08-22T11:00:00Z",
-        "until": "2022-08-22T12:00:00Z"
+        "since": "2022-08-22T12:00:00Z",
+        "until": "2022-08-22T13:00:00Z"
       }
     ]
   },
@@ -504,10 +504,10 @@
     },
     "siteHealthAdvices": [
       {
-        "since": "2022-08-22T11:00:00Z",
-        "until": "2022-08-22T12:00:00Z",
+        "since": "2022-08-22T12:00:00Z",
+        "until": "2022-08-22T13:00:00Z",
         "healthParameter": "PM2.5",
-        "averageValue": 6.17,
+        "averageValue": 4.44,
         "unit": "&micro;g/m&sup3;",
         "healthAdvice": "Good",
         "healthAdviceColor": "#42A93C",
@@ -570,10 +570,10 @@
     },
     "siteHealthAdvices": [
       {
-        "since": "2022-08-22T11:00:00Z",
-        "until": "2022-08-22T12:00:00Z",
+        "since": "2022-08-22T12:00:00Z",
+        "until": "2022-08-22T13:00:00Z",
         "healthParameter": "PM2.5",
-        "averageValue": 5.63,
+        "averageValue": 1.55,
         "unit": "&micro;g/m&sup3;",
         "healthAdvice": "Good",
         "healthAdviceColor": "#42A93C",
@@ -594,10 +594,10 @@
     },
     "siteHealthAdvices": [
       {
-        "since": "2022-08-22T11:00:00Z",
-        "until": "2022-08-22T12:00:00Z",
+        "since": "2022-08-22T12:00:00Z",
+        "until": "2022-08-22T13:00:00Z",
         "healthParameter": "PM2.5",
-        "averageValue": 4.35,
+        "averageValue": 4.86,
         "unit": "&micro;g/m&sup3;",
         "healthAdvice": "Good",
         "healthAdviceColor": "#42A93C",
@@ -618,10 +618,10 @@
     },
     "siteHealthAdvices": [
       {
-        "since": "2022-08-22T11:00:00Z",
-        "until": "2022-08-22T12:00:00Z",
+        "since": "2022-08-22T12:00:00Z",
+        "until": "2022-08-22T13:00:00Z",
         "healthParameter": "PM2.5",
-        "averageValue": 1.24,
+        "averageValue": 1.07,
         "unit": "&micro;g/m&sup3;",
         "healthAdvice": "Good",
         "healthAdviceColor": "#42A93C",
@@ -642,8 +642,8 @@
     },
     "siteHealthAdvices": [
       {
-        "since": "2022-08-22T11:00:00Z",
-        "until": "2022-08-22T12:00:00Z",
+        "since": "2022-08-22T12:00:00Z",
+        "until": "2022-08-22T13:00:00Z",
         "healthParameter": "PM2.5",
         "averageValue": 0,
         "unit": "&micro;g/m&sup3;",
@@ -666,10 +666,10 @@
     },
     "siteHealthAdvices": [
       {
-        "since": "2022-08-22T11:00:00Z",
-        "until": "2022-08-22T12:00:00Z",
+        "since": "2022-08-22T12:00:00Z",
+        "until": "2022-08-22T13:00:00Z",
         "healthParameter": "Particles",
-        "averageValue": 5.2,
+        "averageValue": 4.9,
         "unit": "&micro;g/m&sup3;",
         "healthAdvice": "Good",
         "healthAdviceColor": "#42A93C",
@@ -690,8 +690,8 @@
     },
     "siteHealthAdvices": [
       {
-        "since": "2022-08-22T11:00:00Z",
-        "until": "2022-08-22T12:00:00Z"
+        "since": "2022-08-22T12:00:00Z",
+        "until": "2022-08-22T13:00:00Z"
       }
     ]
   },
@@ -708,10 +708,10 @@
     },
     "siteHealthAdvices": [
       {
-        "since": "2022-08-22T11:00:00Z",
-        "until": "2022-08-22T12:00:00Z",
+        "since": "2022-08-22T12:00:00Z",
+        "until": "2022-08-22T13:00:00Z",
         "healthParameter": "Particles",
-        "averageValue": 5.3,
+        "averageValue": 5.48,
         "unit": "&micro;g/m&sup3;",
         "healthAdvice": "Good",
         "healthAdviceColor": "#42A93C",
@@ -732,10 +732,10 @@
     },
     "siteHealthAdvices": [
       {
-        "since": "2022-08-22T11:00:00Z",
-        "until": "2022-08-22T12:00:00Z",
+        "since": "2022-08-22T12:00:00Z",
+        "until": "2022-08-22T13:00:00Z",
         "healthParameter": "Particles",
-        "averageValue": 4.55,
+        "averageValue": 4.43,
         "unit": "&micro;g/m&sup3;",
         "healthAdvice": "Good",
         "healthAdviceColor": "#42A93C",
@@ -756,10 +756,10 @@
     },
     "siteHealthAdvices": [
       {
-        "since": "2022-08-22T11:00:00Z",
-        "until": "2022-08-22T12:00:00Z",
+        "since": "2022-08-22T12:00:00Z",
+        "until": "2022-08-22T13:00:00Z",
         "healthParameter": "Particles",
-        "averageValue": 5.35,
+        "averageValue": 5.32,
         "unit": "&micro;g/m&sup3;",
         "healthAdvice": "Good",
         "healthAdviceColor": "#42A93C",
@@ -780,10 +780,10 @@
     },
     "siteHealthAdvices": [
       {
-        "since": "2022-08-22T11:00:00Z",
-        "until": "2022-08-22T12:00:00Z",
+        "since": "2022-08-22T12:00:00Z",
+        "until": "2022-08-22T13:00:00Z",
         "healthParameter": "PM2.5",
-        "averageValue": 1.15,
+        "averageValue": 1.1,
         "unit": "&micro;g/m&sup3;",
         "healthAdvice": "Good",
         "healthAdviceColor": "#42A93C",
@@ -804,10 +804,10 @@
     },
     "siteHealthAdvices": [
       {
-        "since": "2022-08-22T11:00:00Z",
-        "until": "2022-08-22T12:00:00Z",
+        "since": "2022-08-22T12:00:00Z",
+        "until": "2022-08-22T13:00:00Z",
         "healthParameter": "PM2.5",
-        "averageValue": 0.74,
+        "averageValue": 2.59,
         "unit": "&micro;g/m&sup3;",
         "healthAdvice": "Good",
         "healthAdviceColor": "#42A93C",
@@ -828,10 +828,10 @@
     },
     "siteHealthAdvices": [
       {
-        "since": "2022-08-22T11:00:00Z",
-        "until": "2022-08-22T12:00:00Z",
+        "since": "2022-08-22T12:00:00Z",
+        "until": "2022-08-22T13:00:00Z",
         "healthParameter": "Particles",
-        "averageValue": 5.73,
+        "averageValue": 5.17,
         "unit": "&micro;g/m&sup3;",
         "healthAdvice": "Good",
         "healthAdviceColor": "#42A93C",
@@ -852,10 +852,10 @@
     },
     "siteHealthAdvices": [
       {
-        "since": "2022-08-22T11:00:00Z",
-        "until": "2022-08-22T12:00:00Z",
+        "since": "2022-08-22T12:00:00Z",
+        "until": "2022-08-22T13:00:00Z",
         "healthParameter": "Particles",
-        "averageValue": 9.25,
+        "averageValue": 7.3,
         "unit": "&micro;g/m&sup3;",
         "healthAdvice": "Good",
         "healthAdviceColor": "#42A93C",
@@ -876,10 +876,10 @@
     },
     "siteHealthAdvices": [
       {
-        "since": "2022-08-22T11:00:00Z",
-        "until": "2022-08-22T12:00:00Z",
+        "since": "2022-08-22T12:00:00Z",
+        "until": "2022-08-22T13:00:00Z",
         "healthParameter": "Particles",
-        "averageValue": 7.15,
+        "averageValue": 7.07,
         "unit": "&micro;g/m&sup3;",
         "healthAdvice": "Good",
         "healthAdviceColor": "#42A93C",
@@ -900,10 +900,10 @@
     },
     "siteHealthAdvices": [
       {
-        "since": "2022-08-22T11:00:00Z",
-        "until": "2022-08-22T12:00:00Z",
+        "since": "2022-08-22T12:00:00Z",
+        "until": "2022-08-22T13:00:00Z",
         "healthParameter": "Particles",
-        "averageValue": 7.45,
+        "averageValue": 6.8,
         "unit": "&micro;g/m&sup3;",
         "healthAdvice": "Good",
         "healthAdviceColor": "#42A93C",
@@ -924,10 +924,10 @@
     },
     "siteHealthAdvices": [
       {
-        "since": "2022-08-22T11:00:00Z",
-        "until": "2022-08-22T12:00:00Z",
+        "since": "2022-08-22T12:00:00Z",
+        "until": "2022-08-22T13:00:00Z",
         "healthParameter": "Particles",
-        "averageValue": 8.38,
+        "averageValue": 5.85,
         "unit": "&micro;g/m&sup3;",
         "healthAdvice": "Good",
         "healthAdviceColor": "#42A93C",
@@ -948,8 +948,8 @@
     },
     "siteHealthAdvices": [
       {
-        "since": "2022-08-22T11:00:00Z",
-        "until": "2022-08-22T12:00:00Z",
+        "since": "2022-08-22T12:00:00Z",
+        "until": "2022-08-22T13:00:00Z",
         "healthParameter": "Particles",
         "averageValue": 5.3,
         "unit": "&micro;g/m&sup3;",
@@ -972,10 +972,10 @@
     },
     "siteHealthAdvices": [
       {
-        "since": "2022-08-22T11:00:00Z",
-        "until": "2022-08-22T12:00:00Z",
+        "since": "2022-08-22T12:00:00Z",
+        "until": "2022-08-22T13:00:00Z",
         "healthParameter": "Particles",
-        "averageValue": 7.2,
+        "averageValue": 10.07,
         "unit": "&micro;g/m&sup3;",
         "healthAdvice": "Good",
         "healthAdviceColor": "#42A93C",
@@ -996,10 +996,10 @@
     },
     "siteHealthAdvices": [
       {
-        "since": "2022-08-22T11:00:00Z",
-        "until": "2022-08-22T12:00:00Z",
+        "since": "2022-08-22T12:00:00Z",
+        "until": "2022-08-22T13:00:00Z",
         "healthParameter": "Particles",
-        "averageValue": 4.97,
+        "averageValue": 4.93,
         "unit": "&micro;g/m&sup3;",
         "healthAdvice": "Good",
         "healthAdviceColor": "#42A93C",
@@ -1020,10 +1020,10 @@
     },
     "siteHealthAdvices": [
       {
-        "since": "2022-08-22T11:00:00Z",
-        "until": "2022-08-22T12:00:00Z",
+        "since": "2022-08-22T12:00:00Z",
+        "until": "2022-08-22T13:00:00Z",
         "healthParameter": "Particles",
-        "averageValue": 4.13,
+        "averageValue": 4.3,
         "unit": "&micro;g/m&sup3;",
         "healthAdvice": "Good",
         "healthAdviceColor": "#42A93C",
@@ -1044,10 +1044,10 @@
     },
     "siteHealthAdvices": [
       {
-        "since": "2022-08-22T11:00:00Z",
-        "until": "2022-08-22T12:00:00Z",
+        "since": "2022-08-22T12:00:00Z",
+        "until": "2022-08-22T13:00:00Z",
         "healthParameter": "Particles",
-        "averageValue": 8.52,
+        "averageValue": 7.2,
         "unit": "&micro;g/m&sup3;",
         "healthAdvice": "Good",
         "healthAdviceColor": "#42A93C",
@@ -1068,10 +1068,10 @@
     },
     "siteHealthAdvices": [
       {
-        "since": "2022-08-22T11:00:00Z",
-        "until": "2022-08-22T12:00:00Z",
+        "since": "2022-08-22T12:00:00Z",
+        "until": "2022-08-22T13:00:00Z",
         "healthParameter": "Particles",
-        "averageValue": 4.65,
+        "averageValue": 4.43,
         "unit": "&micro;g/m&sup3;",
         "healthAdvice": "Good",
         "healthAdviceColor": "#42A93C",
@@ -1092,10 +1092,10 @@
     },
     "siteHealthAdvices": [
       {
-        "since": "2022-08-22T11:00:00Z",
-        "until": "2022-08-22T12:00:00Z",
+        "since": "2022-08-22T12:00:00Z",
+        "until": "2022-08-22T13:00:00Z",
         "healthParameter": "Particles",
-        "averageValue": 4.83,
+        "averageValue": 5.15,
         "unit": "&micro;g/m&sup3;",
         "healthAdvice": "Good",
         "healthAdviceColor": "#42A93C",
@@ -1116,10 +1116,10 @@
     },
     "siteHealthAdvices": [
       {
-        "since": "2022-08-22T11:00:00Z",
-        "until": "2022-08-22T12:00:00Z",
+        "since": "2022-08-22T12:00:00Z",
+        "until": "2022-08-22T13:00:00Z",
         "healthParameter": "Particles",
-        "averageValue": 4.35,
+        "averageValue": 5.15,
         "unit": "&micro;g/m&sup3;",
         "healthAdvice": "Good",
         "healthAdviceColor": "#42A93C",
@@ -1140,10 +1140,10 @@
     },
     "siteHealthAdvices": [
       {
-        "since": "2022-08-22T11:00:00Z",
-        "until": "2022-08-22T12:00:00Z",
+        "since": "2022-08-22T12:00:00Z",
+        "until": "2022-08-22T13:00:00Z",
         "healthParameter": "Particles",
-        "averageValue": 5.05,
+        "averageValue": 5.38,
         "unit": "&micro;g/m&sup3;",
         "healthAdvice": "Good",
         "healthAdviceColor": "#42A93C",
@@ -1164,10 +1164,10 @@
     },
     "siteHealthAdvices": [
       {
-        "since": "2022-08-22T11:00:00Z",
-        "until": "2022-08-22T12:00:00Z",
+        "since": "2022-08-22T12:00:00Z",
+        "until": "2022-08-22T13:00:00Z",
         "healthParameter": "Particles",
-        "averageValue": 4.77,
+        "averageValue": 4.3,
         "unit": "&micro;g/m&sup3;",
         "healthAdvice": "Good",
         "healthAdviceColor": "#42A93C",
@@ -1188,10 +1188,10 @@
     },
     "siteHealthAdvices": [
       {
-        "since": "2022-08-22T11:00:00Z",
-        "until": "2022-08-22T12:00:00Z",
+        "since": "2022-08-22T12:00:00Z",
+        "until": "2022-08-22T13:00:00Z",
         "healthParameter": "Particles",
-        "averageValue": 9.7,
+        "averageValue": 4.93,
         "unit": "&micro;g/m&sup3;",
         "healthAdvice": "Good",
         "healthAdviceColor": "#42A93C",
@@ -1212,10 +1212,10 @@
     },
     "siteHealthAdvices": [
       {
-        "since": "2022-08-22T11:00:00Z",
-        "until": "2022-08-22T12:00:00Z",
+        "since": "2022-08-22T12:00:00Z",
+        "until": "2022-08-22T13:00:00Z",
         "healthParameter": "Particles",
-        "averageValue": 4.35,
+        "averageValue": 4.15,
         "unit": "&micro;g/m&sup3;",
         "healthAdvice": "Good",
         "healthAdviceColor": "#42A93C",
@@ -1236,10 +1236,10 @@
     },
     "siteHealthAdvices": [
       {
-        "since": "2022-08-22T11:00:00Z",
-        "until": "2022-08-22T12:00:00Z",
+        "since": "2022-08-22T12:00:00Z",
+        "until": "2022-08-22T13:00:00Z",
         "healthParameter": "Particles",
-        "averageValue": 10.15,
+        "averageValue": 9.15,
         "unit": "&micro;g/m&sup3;",
         "healthAdvice": "Good",
         "healthAdviceColor": "#42A93C",
@@ -1260,10 +1260,10 @@
     },
     "siteHealthAdvices": [
       {
-        "since": "2022-08-22T11:00:00Z",
-        "until": "2022-08-22T12:00:00Z",
+        "since": "2022-08-22T12:00:00Z",
+        "until": "2022-08-22T13:00:00Z",
         "healthParameter": "Particles",
-        "averageValue": 4.18,
+        "averageValue": 4.43,
         "unit": "&micro;g/m&sup3;",
         "healthAdvice": "Good",
         "healthAdviceColor": "#42A93C",
@@ -1284,10 +1284,10 @@
     },
     "siteHealthAdvices": [
       {
-        "since": "2022-08-22T11:00:00Z",
-        "until": "2022-08-22T12:00:00Z",
+        "since": "2022-08-22T12:00:00Z",
+        "until": "2022-08-22T13:00:00Z",
         "healthParameter": "Particles",
-        "averageValue": 4.65,
+        "averageValue": 4.18,
         "unit": "&micro;g/m&sup3;",
         "healthAdvice": "Good",
         "healthAdviceColor": "#42A93C",
@@ -1308,10 +1308,10 @@
     },
     "siteHealthAdvices": [
       {
-        "since": "2022-08-22T11:00:00Z",
-        "until": "2022-08-22T12:00:00Z",
+        "since": "2022-08-22T12:00:00Z",
+        "until": "2022-08-22T13:00:00Z",
         "healthParameter": "Particles",
-        "averageValue": 5.25,
+        "averageValue": 5.35,
         "unit": "&micro;g/m&sup3;",
         "healthAdvice": "Good",
         "healthAdviceColor": "#42A93C",
@@ -1332,10 +1332,10 @@
     },
     "siteHealthAdvices": [
       {
-        "since": "2022-08-22T11:00:00Z",
-        "until": "2022-08-22T12:00:00Z",
+        "since": "2022-08-22T12:00:00Z",
+        "until": "2022-08-22T13:00:00Z",
         "healthParameter": "Particles",
-        "averageValue": 11.4,
+        "averageValue": 7.43,
         "unit": "&micro;g/m&sup3;",
         "healthAdvice": "Good",
         "healthAdviceColor": "#42A93C",
@@ -1356,10 +1356,10 @@
     },
     "siteHealthAdvices": [
       {
-        "since": "2022-08-22T11:00:00Z",
-        "until": "2022-08-22T12:00:00Z",
+        "since": "2022-08-22T12:00:00Z",
+        "until": "2022-08-22T13:00:00Z",
         "healthParameter": "Particles",
-        "averageValue": 6.18,
+        "averageValue": 5.65,
         "unit": "&micro;g/m&sup3;",
         "healthAdvice": "Good",
         "healthAdviceColor": "#42A93C",
@@ -1380,10 +1380,10 @@
     },
     "siteHealthAdvices": [
       {
-        "since": "2022-08-22T11:00:00Z",
-        "until": "2022-08-22T12:00:00Z",
+        "since": "2022-08-22T12:00:00Z",
+        "until": "2022-08-22T13:00:00Z",
         "healthParameter": "Particles",
-        "averageValue": 12.65,
+        "averageValue": 8.82,
         "unit": "&micro;g/m&sup3;",
         "healthAdvice": "Good",
         "healthAdviceColor": "#42A93C",
@@ -1404,10 +1404,10 @@
     },
     "siteHealthAdvices": [
       {
-        "since": "2022-08-22T11:00:00Z",
-        "until": "2022-08-22T12:00:00Z",
+        "since": "2022-08-22T12:00:00Z",
+        "until": "2022-08-22T13:00:00Z",
         "healthParameter": "Particles",
-        "averageValue": 9.53,
+        "averageValue": 6.48,
         "unit": "&micro;g/m&sup3;",
         "healthAdvice": "Good",
         "healthAdviceColor": "#42A93C",
@@ -1428,10 +1428,10 @@
     },
     "siteHealthAdvices": [
       {
-        "since": "2022-08-22T11:00:00Z",
-        "until": "2022-08-22T12:00:00Z",
+        "since": "2022-08-22T12:00:00Z",
+        "until": "2022-08-22T13:00:00Z",
         "healthParameter": "Particles",
-        "averageValue": 8.1,
+        "averageValue": 5.05,
         "unit": "&micro;g/m&sup3;",
         "healthAdvice": "Good",
         "healthAdviceColor": "#42A93C",
@@ -1452,8 +1452,14 @@
     },
     "siteHealthAdvices": [
       {
-        "since": "2022-08-22T11:00:00Z",
-        "until": "2022-08-22T12:00:00Z"
+        "since": "2022-08-22T12:00:00Z",
+        "until": "2022-08-22T13:00:00Z",
+        "healthParameter": "Particles",
+        "averageValue": 6.7,
+        "unit": "&micro;g/m&sup3;",
+        "healthAdvice": "Good",
+        "healthAdviceColor": "#42A93C",
+        "healthCode": "9999"
       }
     ]
   },
@@ -1470,10 +1476,10 @@
     },
     "siteHealthAdvices": [
       {
-        "since": "2022-08-22T11:00:00Z",
-        "until": "2022-08-22T12:00:00Z",
+        "since": "2022-08-22T12:00:00Z",
+        "until": "2022-08-22T13:00:00Z",
         "healthParameter": "Particles",
-        "averageValue": 7.88,
+        "averageValue": 7.47,
         "unit": "&micro;g/m&sup3;",
         "healthAdvice": "Good",
         "healthAdviceColor": "#42A93C",
@@ -1494,10 +1500,10 @@
     },
     "siteHealthAdvices": [
       {
-        "since": "2022-08-22T11:00:00Z",
-        "until": "2022-08-22T12:00:00Z",
+        "since": "2022-08-22T12:00:00Z",
+        "until": "2022-08-22T13:00:00Z",
         "healthParameter": "Particles",
-        "averageValue": 4.93,
+        "averageValue": 5.63,
         "unit": "&micro;g/m&sup3;",
         "healthAdvice": "Good",
         "healthAdviceColor": "#42A93C",
@@ -1518,10 +1524,10 @@
     },
     "siteHealthAdvices": [
       {
-        "since": "2022-08-22T11:00:00Z",
-        "until": "2022-08-22T12:00:00Z",
+        "since": "2022-08-22T12:00:00Z",
+        "until": "2022-08-22T13:00:00Z",
         "healthParameter": "Particles",
-        "averageValue": 4.45,
+        "averageValue": 4.35,
         "unit": "&micro;g/m&sup3;",
         "healthAdvice": "Good",
         "healthAdviceColor": "#42A93C",
@@ -1542,10 +1548,10 @@
     },
     "siteHealthAdvices": [
       {
-        "since": "2022-08-22T11:00:00Z",
-        "until": "2022-08-22T12:00:00Z",
+        "since": "2022-08-22T12:00:00Z",
+        "until": "2022-08-22T13:00:00Z",
         "healthParameter": "Particles",
-        "averageValue": 5.97,
+        "averageValue": 5.75,
         "unit": "&micro;g/m&sup3;",
         "healthAdvice": "Good",
         "healthAdviceColor": "#42A93C",
@@ -1566,10 +1572,10 @@
     },
     "siteHealthAdvices": [
       {
-        "since": "2022-08-22T11:00:00Z",
-        "until": "2022-08-22T12:00:00Z",
+        "since": "2022-08-22T12:00:00Z",
+        "until": "2022-08-22T13:00:00Z",
         "healthParameter": "Particles",
-        "averageValue": 5.53,
+        "averageValue": 5.85,
         "unit": "&micro;g/m&sup3;",
         "healthAdvice": "Good",
         "healthAdviceColor": "#42A93C",
@@ -1590,10 +1596,10 @@
     },
     "siteHealthAdvices": [
       {
-        "since": "2022-08-22T11:00:00Z",
-        "until": "2022-08-22T12:00:00Z",
+        "since": "2022-08-22T12:00:00Z",
+        "until": "2022-08-22T13:00:00Z",
         "healthParameter": "Particles",
-        "averageValue": 4.95,
+        "averageValue": 5.58,
         "unit": "&micro;g/m&sup3;",
         "healthAdvice": "Good",
         "healthAdviceColor": "#42A93C",
@@ -1614,10 +1620,10 @@
     },
     "siteHealthAdvices": [
       {
-        "since": "2022-08-22T11:00:00Z",
-        "until": "2022-08-22T12:00:00Z",
+        "since": "2022-08-22T12:00:00Z",
+        "until": "2022-08-22T13:00:00Z",
         "healthParameter": "Particles",
-        "averageValue": 5.1,
+        "averageValue": 5.33,
         "unit": "&micro;g/m&sup3;",
         "healthAdvice": "Good",
         "healthAdviceColor": "#42A93C",
@@ -1638,10 +1644,10 @@
     },
     "siteHealthAdvices": [
       {
-        "since": "2022-08-22T11:00:00Z",
-        "until": "2022-08-22T12:00:00Z",
+        "since": "2022-08-22T12:00:00Z",
+        "until": "2022-08-22T13:00:00Z",
         "healthParameter": "Particles",
-        "averageValue": 5.15,
+        "averageValue": 5.83,
         "unit": "&micro;g/m&sup3;",
         "healthAdvice": "Good",
         "healthAdviceColor": "#42A93C",
@@ -1662,10 +1668,10 @@
     },
     "siteHealthAdvices": [
       {
-        "since": "2022-08-22T11:00:00Z",
-        "until": "2022-08-22T12:00:00Z",
+        "since": "2022-08-22T12:00:00Z",
+        "until": "2022-08-22T13:00:00Z",
         "healthParameter": "Particles",
-        "averageValue": 5.4,
+        "averageValue": 5.45,
         "unit": "&micro;g/m&sup3;",
         "healthAdvice": "Good",
         "healthAdviceColor": "#42A93C",
@@ -1686,10 +1692,10 @@
     },
     "siteHealthAdvices": [
       {
-        "since": "2022-08-22T11:00:00Z",
-        "until": "2022-08-22T12:00:00Z",
+        "since": "2022-08-22T12:00:00Z",
+        "until": "2022-08-22T13:00:00Z",
         "healthParameter": "Particles",
-        "averageValue": 5.7,
+        "averageValue": 5.9,
         "unit": "&micro;g/m&sup3;",
         "healthAdvice": "Good",
         "healthAdviceColor": "#42A93C",
@@ -1710,10 +1716,10 @@
     },
     "siteHealthAdvices": [
       {
-        "since": "2022-08-22T11:00:00Z",
-        "until": "2022-08-22T12:00:00Z",
+        "since": "2022-08-22T12:00:00Z",
+        "until": "2022-08-22T13:00:00Z",
         "healthParameter": "Particles",
-        "averageValue": 4.82,
+        "averageValue": 4.75,
         "unit": "&micro;g/m&sup3;",
         "healthAdvice": "Good",
         "healthAdviceColor": "#42A93C",
@@ -1734,10 +1740,10 @@
     },
     "siteHealthAdvices": [
       {
-        "since": "2022-08-22T11:00:00Z",
-        "until": "2022-08-22T12:00:00Z",
+        "since": "2022-08-22T12:00:00Z",
+        "until": "2022-08-22T13:00:00Z",
         "healthParameter": "Particles",
-        "averageValue": 6.65,
+        "averageValue": 5.18,
         "unit": "&micro;g/m&sup3;",
         "healthAdvice": "Good",
         "healthAdviceColor": "#42A93C",
@@ -1758,10 +1764,10 @@
     },
     "siteHealthAdvices": [
       {
-        "since": "2022-08-22T11:00:00Z",
-        "until": "2022-08-22T12:00:00Z",
+        "since": "2022-08-22T12:00:00Z",
+        "until": "2022-08-22T13:00:00Z",
         "healthParameter": "Particles",
-        "averageValue": 5.48,
+        "averageValue": 5.4,
         "unit": "&micro;g/m&sup3;",
         "healthAdvice": "Good",
         "healthAdviceColor": "#42A93C",
@@ -1782,14 +1788,8 @@
     },
     "siteHealthAdvices": [
       {
-        "since": "2022-08-22T11:00:00Z",
-        "until": "2022-08-22T12:00:00Z",
-        "healthParameter": "Particles",
-        "averageValue": 5.33,
-        "unit": "&micro;g/m&sup3;",
-        "healthAdvice": "Good",
-        "healthAdviceColor": "#42A93C",
-        "healthCode": "9999"
+        "since": "2022-08-22T12:00:00Z",
+        "until": "2022-08-22T13:00:00Z"
       }
     ]
   },
@@ -1806,10 +1806,10 @@
     },
     "siteHealthAdvices": [
       {
-        "since": "2022-08-22T11:00:00Z",
-        "until": "2022-08-22T12:00:00Z",
+        "since": "2022-08-22T12:00:00Z",
+        "until": "2022-08-22T13:00:00Z",
         "healthParameter": "Particles",
-        "averageValue": 8.07,
+        "averageValue": 7.9,
         "unit": "&micro;g/m&sup3;",
         "healthAdvice": "Good",
         "healthAdviceColor": "#42A93C",
@@ -1830,10 +1830,10 @@
     },
     "siteHealthAdvices": [
       {
-        "since": "2022-08-22T11:00:00Z",
-        "until": "2022-08-22T12:00:00Z",
+        "since": "2022-08-22T12:00:00Z",
+        "until": "2022-08-22T13:00:00Z",
         "healthParameter": "Particles",
-        "averageValue": 5.88,
+        "averageValue": 5.45,
         "unit": "&micro;g/m&sup3;",
         "healthAdvice": "Good",
         "healthAdviceColor": "#42A93C",
@@ -1854,10 +1854,10 @@
     },
     "siteHealthAdvices": [
       {
-        "since": "2022-08-22T11:00:00Z",
-        "until": "2022-08-22T12:00:00Z",
+        "since": "2022-08-22T12:00:00Z",
+        "until": "2022-08-22T13:00:00Z",
         "healthParameter": "Particles",
-        "averageValue": 8.42,
+        "averageValue": 5.5,
         "unit": "&micro;g/m&sup3;",
         "healthAdvice": "Good",
         "healthAdviceColor": "#42A93C",
@@ -1878,10 +1878,10 @@
     },
     "siteHealthAdvices": [
       {
-        "since": "2022-08-22T11:00:00Z",
-        "until": "2022-08-22T12:00:00Z",
+        "since": "2022-08-22T12:00:00Z",
+        "until": "2022-08-22T13:00:00Z",
         "healthParameter": "PM2.5",
-        "averageValue": 1.11,
+        "averageValue": 0.98,
         "unit": "&micro;g/m&sup3;",
         "healthAdvice": "Good",
         "healthAdviceColor": "#42A93C",
@@ -1902,10 +1902,10 @@
     },
     "siteHealthAdvices": [
       {
-        "since": "2022-08-22T11:00:00Z",
-        "until": "2022-08-22T12:00:00Z",
+        "since": "2022-08-22T12:00:00Z",
+        "until": "2022-08-22T13:00:00Z",
         "healthParameter": "PM2.5",
-        "averageValue": 1,
+        "averageValue": 0.99,
         "unit": "&micro;g/m&sup3;",
         "healthAdvice": "Good",
         "healthAdviceColor": "#42A93C",
@@ -1926,10 +1926,10 @@
     },
     "siteHealthAdvices": [
       {
-        "since": "2022-08-22T11:00:00Z",
-        "until": "2022-08-22T12:00:00Z",
+        "since": "2022-08-22T12:00:00Z",
+        "until": "2022-08-22T13:00:00Z",
         "healthParameter": "PM2.5",
-        "averageValue": 2.28,
+        "averageValue": 1.6,
         "unit": "&micro;g/m&sup3;",
         "healthAdvice": "Good",
         "healthAdviceColor": "#42A93C",
@@ -1950,8 +1950,8 @@
     },
     "siteHealthAdvices": [
       {
-        "since": "2022-08-22T11:00:00Z",
-        "until": "2022-08-22T12:00:00Z"
+        "since": "2022-08-22T12:00:00Z",
+        "until": "2022-08-22T13:00:00Z"
       }
     ]
   },
@@ -1968,10 +1968,10 @@
     },
     "siteHealthAdvices": [
       {
-        "since": "2022-08-22T11:00:00Z",
-        "until": "2022-08-22T12:00:00Z",
+        "since": "2022-08-22T12:00:00Z",
+        "until": "2022-08-22T13:00:00Z",
         "healthParameter": "PM2.5",
-        "averageValue": 1.18,
+        "averageValue": 0.52,
         "unit": "&micro;g/m&sup3;",
         "healthAdvice": "Good",
         "healthAdviceColor": "#42A93C",
@@ -1992,8 +1992,8 @@
     },
     "siteHealthAdvices": [
       {
-        "since": "2022-08-22T11:00:00Z",
-        "until": "2022-08-22T12:00:00Z"
+        "since": "2022-08-22T12:00:00Z",
+        "until": "2022-08-22T13:00:00Z"
       }
     ]
   },
@@ -2010,8 +2010,8 @@
     },
     "siteHealthAdvices": [
       {
-        "since": "2022-08-22T11:00:00Z",
-        "until": "2022-08-22T12:00:00Z"
+        "since": "2022-08-22T12:00:00Z",
+        "until": "2022-08-22T13:00:00Z"
       }
     ]
   },
@@ -2028,10 +2028,10 @@
     },
     "siteHealthAdvices": [
       {
-        "since": "2022-08-22T11:00:00Z",
-        "until": "2022-08-22T12:00:00Z",
+        "since": "2022-08-22T12:00:00Z",
+        "until": "2022-08-22T13:00:00Z",
         "healthParameter": "PM2.5",
-        "averageValue": 1.24,
+        "averageValue": 1.05,
         "unit": "&micro;g/m&sup3;",
         "healthAdvice": "Good",
         "healthAdviceColor": "#42A93C",
@@ -2052,10 +2052,10 @@
     },
     "siteHealthAdvices": [
       {
-        "since": "2022-08-22T11:00:00Z",
-        "until": "2022-08-22T12:00:00Z",
+        "since": "2022-08-22T12:00:00Z",
+        "until": "2022-08-22T13:00:00Z",
         "healthParameter": "Particles",
-        "averageValue": 7.85,
+        "averageValue": 6.12,
         "unit": "&micro;g/m&sup3;",
         "healthAdvice": "Good",
         "healthAdviceColor": "#42A93C",
@@ -2076,10 +2076,10 @@
     },
     "siteHealthAdvices": [
       {
-        "since": "2022-08-22T11:00:00Z",
-        "until": "2022-08-22T12:00:00Z",
+        "since": "2022-08-22T12:00:00Z",
+        "until": "2022-08-22T13:00:00Z",
         "healthParameter": "Particles",
-        "averageValue": 5.48,
+        "averageValue": 5.1,
         "unit": "&micro;g/m&sup3;",
         "healthAdvice": "Good",
         "healthAdviceColor": "#42A93C",
@@ -2100,10 +2100,10 @@
     },
     "siteHealthAdvices": [
       {
-        "since": "2022-08-22T11:00:00Z",
-        "until": "2022-08-22T12:00:00Z",
+        "since": "2022-08-22T12:00:00Z",
+        "until": "2022-08-22T13:00:00Z",
         "healthParameter": "Particles",
-        "averageValue": 4.95,
+        "averageValue": 5.3,
         "unit": "&micro;g/m&sup3;",
         "healthAdvice": "Good",
         "healthAdviceColor": "#42A93C",
@@ -2124,8 +2124,8 @@
     },
     "siteHealthAdvices": [
       {
-        "since": "2022-08-22T11:00:00Z",
-        "until": "2022-08-22T12:00:00Z"
+        "since": "2022-08-22T12:00:00Z",
+        "until": "2022-08-22T13:00:00Z"
       }
     ]
   }

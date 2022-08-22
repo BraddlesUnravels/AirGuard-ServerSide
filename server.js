@@ -1,7 +1,7 @@
 const { application } = require( 'express' );
 const express = require( 'express' );
 const app = express();
-const logEvents = require( './logEvents' );
+const logEvents = require( './functions/logEvents' );
 const EventEmitter = require( 'events' );
 class Emitter extends EventEmitter { };
 const bodyParser = require( 'body-parser' );
@@ -9,7 +9,7 @@ const path = require( 'path' );
 const PORT = process.env.PORT || 3500; //Set port for server
 const fs = require( 'fs' );
 const { format, eachMonthOfInterval } = require('date-fns');
-const refreshApiData = require( './refreshApiData' );
+const refreshApiData = require( './api/refreshApiData' );
 const schedule = require( 'node-schedule' ); // Use this when building the daily DB dumb to mongoDB
 const date = new Date();
 const cors = require( 'cors' );
