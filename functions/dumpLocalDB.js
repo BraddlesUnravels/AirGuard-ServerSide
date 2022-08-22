@@ -7,7 +7,7 @@ const EventEmitter = require('events');
 const { MongoClient } = require('mongodb')
 class Emitter extends EventEmitter { };
 const myEmitter = new Emitter();
-const Creds = require('./configurations/keys')
+const Creds = require('../configurations/keys')
 
 myEmitter.on('log', (msg, fileName) => logEvents(msg, fileName)); //Listener
 
